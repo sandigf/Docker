@@ -1,2 +1,2 @@
 # Docker
-deploy website with Docker
+deploy a simple web page with Docker
